@@ -239,7 +239,7 @@ var APP_DATA = {
           "yaw": 0.7256665599224927,
           "pitch": 0.45179761812509156,
           "title": "Советские&nbsp; и российские политические деятели",
-          "text": "Главы города Самарры, и городского округа Самары"
+          "text": "Главы города Самары, и городского округа Самары"
         }
       ]
     },
@@ -335,13 +335,13 @@ var APP_DATA = {
         {
           "yaw": 0.8561277290756752,
           "pitch": -0.06085834736358464,
-          "title": "Обмундирование Казачьего&nbsp; генерала Б.Н. Гусева",
+          "title": "Обмундирование Казачьего&nbsp; генерала",
           "text": "<p class=\"MsoNormal\" style=\"line-height:115%\"><span style=\"font-size:14.0pt;\nline-height:115%;font-family:&quot;Times New Roman&quot;,serif\">Атаманская шинель и\nбоевая сабля, врученная Борису Николаевичу Гусеву министром обороны Грачевым.<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\" style=\"line-height:115%\"><span style=\"font-size:14.0pt;\nline-height:115%;font-family:&quot;Times New Roman&quot;,serif\">&nbsp;<o:p></o:p></span></p>"
         },
         {
           "yaw": 1.782762265032951,
           "pitch": 0.3532488842752102,
-          "title": "Картина «Старая Самара",
+          "title": "Картина Старая Самара",
           "text": "<span style=\"font-size:14.0pt;line-height:107%;\nfont-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:Calibri;mso-fareast-theme-font:\nminor-latin;mso-ansi-language:RU;mso-fareast-language:EN-US;mso-bidi-language:\nAR-SA\">Картина художника Юрия Тарасова, подарена им на праздник четырёхсотлетия\nгорода Самары в 1986 году. Представляет собой собирательный образ города конца\nXIX века.</span><div><div><span style=\"font-size:14.0pt;line-height:107%;\nfont-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:Calibri;mso-fareast-theme-font:\nminor-latin;mso-ansi-language:RU;mso-fareast-language:EN-US;mso-bidi-language:\nAR-SA\"><span style=\"font-size: 14pt;\">&nbsp; &nbsp; &nbsp; На первом плане: торговая площадь, на ней хлебная лавка.</span>&nbsp;Самара славилась своим хлебом.</span><div><span style=\"font-size:14.0pt;line-height:107%;\nfont-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:Calibri;mso-fareast-theme-font:\nminor-latin;mso-ansi-language:RU;mso-fareast-language:EN-US;mso-bidi-language:\nAR-SA\"><span style=\"font-size: 14pt; line-height: 107%;\">&nbsp; &nbsp; &nbsp;На одну линию художник поместил главные достопримечательности: немецкая\nлютеранская церковь, кирха, театр-цирк «Олимп», римско-католический костел.\nУтраченные храмы, паровая мельница, драматический театр, колокольня Иверского монастыря, восстановлена теперь на прежнем месте. Трубы жигулёвского пивоваренного завода,\nоснованного Альфредом фон Вакано, который многое сделал для благоустройства\nгорода. На картине представлены разные слои населения, и конечно же две наши\nглавные реки Самара и Волга с пароходом</span><br></span></div></div></div>"
         },
         {
